@@ -1,0 +1,17 @@
+.Activity {
+  text-align: left;
+  transition: margin 0.5s;
+  padding: 0;
+  position: relative;
+}
+.Activity.expanded {
+  padding: 20px 0 !important;
+}
+.activity-actions {
+  display: none;
+  position: absolute;
+  top: 0;
+}
+.Activity.expanded .activity-actions, .activity-data {
+  display: inline-block;
+}
