@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "fitcount-9603f",
+    "default": "tallyfit-101",
     "staging": "tallyfit-101"
   },
   "targets": {}
